@@ -575,7 +575,7 @@ GameObject:
   - 114: {fileID: 114000012451373858}
   - 114: {fileID: 114000014269817160}
   m_Layer: 0
-  m_Name: QuadrupleDeckerBomb
+  m_Name: Red Quadruple Decker
   m_TagString: Pickup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9494,7 +9494,7 @@ MeshRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: a05af7d0cf3f1f945a2c4ae4b1891eea, type: 2}
+  - {fileID: 2100000, guid: 7fa0a9f9a58920642a0c738fafe8bfde, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -9581,7 +9581,7 @@ MeshRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: a05af7d0cf3f1f945a2c4ae4b1891eea, type: 2}
+  - {fileID: 2100000, guid: 7fa0a9f9a58920642a0c738fafe8bfde, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -10277,7 +10277,7 @@ MeshRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: a05af7d0cf3f1f945a2c4ae4b1891eea, type: 2}
+  - {fileID: 2100000, guid: 7fa0a9f9a58920642a0c738fafe8bfde, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
@@ -10857,7 +10857,7 @@ MeshRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: a05af7d0cf3f1f945a2c4ae4b1891eea, type: 2}
+  - {fileID: 2100000, guid: 7fa0a9f9a58920642a0c738fafe8bfde, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
