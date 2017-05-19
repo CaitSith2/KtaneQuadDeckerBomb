@@ -13,7 +13,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   WorkshopPublishedFileID: 926836229
   Title: Quadruple Decker Bomb
-  Description: Inspired by the Double Decker bomb.
+  Description: "Inspired by the Double Decker bomb.\r\n\r\nColored cases now live
+    at http://steamcommunity.com/sharedfiles/filedetails/?id=928473637\r\n\r\nSource
+    code at https://github.com/CaitSith2/KtaneQuadDeckerBomb"
   PreviewImage: {fileID: 2800000, guid: c100c61fc3d55e44b90203890eea177d, type: 3}
   Tags:
   - Bomb Casing
