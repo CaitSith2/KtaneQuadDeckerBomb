@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
   m_Name: WorkshopItem
   m_EditorClassIdentifier: 
-  WorkshopPublishedFileID: 0
+  WorkshopPublishedFileID: 945802775
   Title: 6x6 Mega Bomb
   Description: "If you thought the Quad Decker bomb was Insanity, you haven't seen
     nothing yet.\r  Have fun going insane defusing 71 modules.\n\nIt is recommended
