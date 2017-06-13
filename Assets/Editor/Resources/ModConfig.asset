@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
   m_Name: ModConfig
   m_EditorClassIdentifier: 
-  id: RubiksBomb
-  title: Rubik's Bomb
+  id: 6x6-MegaBomb
+  title: 6x6 Mega Bomb
   version: 1.0
   outputFolder: H:\SteamLibrary\steamapps\common\Keep Talking and Nobody Explodes\mods
